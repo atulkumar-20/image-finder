@@ -30,8 +30,10 @@ Usage
 
 -->Click the "Search" button to fetch and display images related to the specified keyword.
 
-Example
+Example:-
+
 Enter Beautiful Women in the search bar.
+
 Click "Search" to view images of those Women.
 
 Configuration:-
